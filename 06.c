@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Passa peso em quilos pra gramas
+
 int main (){
 	
 	float peso;
