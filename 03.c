@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Calcula e exibe área de um triângulo
+
 int main (){
 	int base;
 	int altura;
