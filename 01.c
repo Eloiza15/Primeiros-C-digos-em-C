@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Pontuação total de quatro notas
+
 int main (){
 	float nota1;
 	float nota2;
