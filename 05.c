@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Calcula divisão
+
 int main (){
 	
 	float dividendo, divisor;
