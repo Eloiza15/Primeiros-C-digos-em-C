@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Informa a diferença entre dois valores
+
 int main (){
 	
 	int primeiro;
